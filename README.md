@@ -1,1 +1,1 @@
-# frist-repo
+echo "Hello GitHub!" > hello.txt
